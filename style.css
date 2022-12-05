@@ -1,0 +1,134 @@
+body {
+  background-color: #24353f;
+  font-family     : 'Titillium Web', sans-serif;
+  background-image: url(pexels-david-besh-884788.jpg);
+  background-size : cover;
+}
+
+/* .one{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+.first {
+  border: solid 2px;
+
+  width : 45%;
+  height: 50%;
+
+  margin-left: 27%;
+  margin-top : 2%;
+}
+
+.first h1 {
+  text-align   : center;
+  color        : #17a2b8;
+  margin-top   : 45px;
+  margin-bottom: 30px;
+}
+
+.first input {
+  text-align      : center;
+  padding-right   : 60%;
+  padding-top     : 5px;
+  padding-bottom  : 5px;
+  padding-left    : 20px;
+  text-align      : left;
+  margin-left     : 7%;
+  margin-bottom   : -5px;
+  border          : black solid 1px;
+  color           : black;
+  background-color: #497188;
+
+}
+
+.ENG {
+  padding-left    : 40%;
+  padding-top     : 5px;
+  padding-bottom  : 5px;
+  padding-right   : 40%;
+  margin-left     : 7%;
+  margin-top      : 15px;
+  color           : #17a2b8;
+  border          : #17a2b8 solid 1px;
+  background-color: #24353f;
+
+}
+
+.ENG:hover {
+  background-color: #17a2b8;
+  color           : white;
+
+  transition: 0.3s;
+}
+
+.first p {
+  text-align: center;
+  color     : white;
+}
+
+.first a {
+
+
+  color: white;
+
+}
+
+.group1 {
+  box-shadow: -5px 2px 54px -11px black;
+}
+
+input textarea {
+  color           : black !important;
+  background-color: black;
+}
+
+input,
+textarea {
+  background-color: transparent !important;
+  color           : black !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: rgb(23, 2, 2) !important;
+}
+
+input:focus,
+textarea:focus {
+  box-shadow: 0 0 0 0 transparent !important;
+}
+
+.helloo {
+  font-size       : 100px;
+  background-color: ;
+  margin-top      : 20%;
+}
+
+.last {
+  margin-left: 30%;
+  color      : white;
+}
+
+.out {
+  margin-left     : 85%;
+  margin-top      : -46%;
+  margin-left     : 80%;
+  padding         : 10px 20px;
+  background-color: #24353f;
+  border          : solid;
+  color           : gray;
+  text-decoration : none;
+
+}
+
+.last2 {
+  color      : white;
+  margin-left: 20%;
+  font-size  : 30px;
+
+}
+
+.logian {
+  margin-left: -40px;
+}
